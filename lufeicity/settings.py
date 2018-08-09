@@ -128,7 +128,7 @@ REST_FRAMEWORK = {
     "VERSION_PARAM":"version",
     "DEFAULT_VERSION":"v1",
     "ALLOWED_VERSIONS":["v1","v2"],
-    "PAGE_SIZE":1
+    # "PAGE_SIZE":1
 
 
 }
